@@ -1,4 +1,4 @@
 ---
 title: "Visite à Stonehenge"
 ---
-![Stonehenge]({% link images/Stonehenge.png %})
+![Stonehenge](/images/Stonehenge.png)
